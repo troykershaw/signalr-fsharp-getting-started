@@ -1,0 +1,4 @@
+﻿Microsoft.AspNet.SignalR.SelfHost
+Microsoft.Owin.Cors
+Microsoft.Owin.StaticFiles
+FSharp.Interop.Dynamic

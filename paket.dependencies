@@ -1,0 +1,6 @@
+source https://nuget.org/api/v2
+
+nuget Microsoft.AspNet.SignalR.SelfHost
+nuget Microsoft.Owin.Cors
+nuget Microsoft.Owin.StaticFiles
+nuget FSharp.Interop.Dynamic

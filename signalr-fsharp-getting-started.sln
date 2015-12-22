@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "signalr-fsharp-getting-started", "signalr-fsharp-getting-started\signalr-fsharp-getting-started.fsproj", "{B2206AE9-1CC6-41BF-A5F3-08DA376B4D2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "paket", "paket", "{25966C4F-D49D-4FA3-BE39-7625CDD2D5C1}"
+	ProjectSection(SolutionItems) = preProject
+		.paket\paket.bootstrapper.exe = .paket\paket.bootstrapper.exe
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9136BD6B-E396-45F8-AEC2-DBC141AA38A8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2206AE9-1CC6-41BF-A5F3-08DA376B4D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2206AE9-1CC6-41BF-A5F3-08DA376B4D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2206AE9-1CC6-41BF-A5F3-08DA376B4D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2206AE9-1CC6-41BF-A5F3-08DA376B4D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
