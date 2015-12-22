@@ -8,7 +8,7 @@ let main _ =
     let rec loop message =
         async {
             signalr.Send message
-            do! Async.Sleep 10000
+            do! Async.Sleep 1000
             return! loop message
         }
 
